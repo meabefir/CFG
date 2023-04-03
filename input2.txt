@@ -1,0 +1,7 @@
+a b c d e
+S -> A,B,C,D,E
+A -> a | _
+B -> b | _
+C -> c
+D -> d | _
+E -> e | _

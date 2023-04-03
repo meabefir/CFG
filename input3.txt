@@ -1,0 +1,5 @@
+w x y z
+P -> x,Q,R,S
+Q -> y,z | z
+R -> w | _
+S -> y
